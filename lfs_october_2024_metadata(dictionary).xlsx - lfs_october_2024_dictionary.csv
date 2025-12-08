@@ -1,0 +1,55 @@
+﻿QUEST,Questionnaire,,,,
+,,_IDS0,(Id Items),,
+,,,,PUFREG,Region
+,,,,PUFHHNUM,Household Unique Sequential Number
+,,HHMEM,Household Members,,
+,,,,PUFPWGTPRV,Final Weight Based on Projection
+,,,,PUFSVYMO,Survey Month
+,,,,PUFSVYYR,Survey Year
+,,,,PUFPSU,Psu Number
+,,,,PUFRPL,Replicate
+,,,,PUFHHSIZE,Household Size
+,,,,PUFC01_LNO,C101-Line Number
+,,,,PUFC03_REL,C03-Relationship to Household Head
+,,,,PUFC04_SEX,C04-Sex
+,,,,PUFC05_AGE,C05-Age as of Last Birthday
+,,,,PUFC06_MSTAT,C06-Marital Status
+,,,,PUFC07_GRADE,C07-Highest Grade Completed
+,,,,PUFC08_CURSCH,C08-Currently Attending School
+,,,,PUFC09_GRADTECH,C09-Graduate of technical/vocational course
+,,,,PUFC09A_NFORMAL,C09a - Currently Attending Non-formal Training for Skills Development
+,,,,PUFC10_CONWR,C10-Overseas Filipino Indicator
+,,,,PUFC11_WORK,C11-Work Indicator
+,,,,PUFC11A_ARRANGEMENT,C11A - Working Arrangement
+,,,,PUFC12_JOB,C12-Job Indicator
+,,,,PUFC12A_PROVMUN,"C12A - Location of Work (Province, Municipality)"
+,,,,PUFC14_PROCC,C14-Primary Occupation
+,,,,PUFC16_PKB,C16-Kind of Business (Primary Occupation)
+,,,,PUFC17_NATEM,C17-Nature of Employment (Primary Occupation)
+,,,,PUFC18_PNWHRS,C18-Normal Working Hours per Day
+,,,,PUFC19_PHOURS,C19-Total Number of Hours Worked during the past week
+,,,,PUFC19B_PWHRS,C19B - Time of work during the past week
+,,,,PUFC20_PWMORE,C20-Want More Hours of Work
+,,,,PUFC21_PLADDW,C21-Look for Additional Work
+,,,,PUFC22_PFWRK,C22-First Time to Work
+,,,,PUFC23_PCLASS,C23-Class of Worker (Primary Occupation)
+,,,,PUFC24_PBASIS,C24-Basis of Payment (Primary Occupation)
+,,,,PUFC25_PBASIC,C25-Basic Pay per Day (Primary Occupation)
+,,,,PUFC26_OJOB,C26-Other Job Indicator
+,,,,PUFC27_NJOBS,C27-Number of Jobs during the past week
+,,,,PUFC28_THOURS,C28-Total Hours Worked for all Jobs
+,,,,PUFC29_WWM48H,C29-Reasons for Working More than 48 Hours during the past week
+,,,,PUFC30_LOOKW,C30-Looked for Work or Tried to Establish Business during the past week
+,,,,PUFC31_FLWRK,C31-First Time to Look for Work
+,,,,PUFC32_JOBSM,C32-Job Search Method
+,,,,PUFC33_WEEKS,C33-Number of Weeks Spent in Looking for Work
+,,,,PUFC34_WYNOT,C34-Reason for not Looking for Work
+,,,,PUFC35_LTLOOKW,C35-When Last Looked for Work
+,,,,PUFC36_AVAIL,C36-Available for Work
+,,,,PUFC37_WILLING,C37-Willingness to take up work during the past week or withing two weeks
+,,,,PUFC38_PREVJOB,C38-Previous Job Indicator
+,,,,PUFC39_YEAR,C39 - Last worked (Year)
+,,,,PUFC39_MONTH,C39 - Last worked (Month)
+,,,,PUFC41_POCC,C41- Previous Occupation
+,,,,PUFC43_QKB,C43-Kind of Business (past quarter)
+,,,,PUFNEWEMPSTAT,"New Employment Criteria (jul 05, 2005)"
